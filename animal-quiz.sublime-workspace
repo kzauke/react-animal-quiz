@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"map",
+				"map-get($grid-breakpoints\t(_navbar.scss)"
+			],
+			[
+				"$brea",
+				"$grid-breakpoints\t(_variables.scss)"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"$brand",
+				"$brand-primary"
+			],
+			[
+				"$font-size",
+				"$font-size-sm\t(_variables.scss)"
+			],
+			[
+				"$small",
+				"$blockquote-small-font-size\t(_content.scss)"
+			],
+			[
+				"$gray-",
+				"$gray-light\t(_variables.scss)"
+			],
+			[
+				"$blk",
+				"$blkco-gray1\t(_variables.scss)"
+			],
+			[
+				"$gray",
+				"$blkco-gray3\t(_variables.scss)"
+			],
+			[
+				"$line-hei",
+				"$line-height-tightest\t(_variables.scss)"
+			],
+			[
+				"$weight",
+				"$weight-bold\t(_variables.scss)"
+			],
+			[
+				"$blkco",
+				"$blkco-gray1"
+			],
+			[
+				"$famil",
+				"$family-sans-serif-bold"
+			],
+			[
+				"carousel",
+				"carousel-control-prev\t(_carousel.scss)"
+			],
+			[
+				"$size-",
+				"$size-7\t(_variables.scss)"
+			],
+			[
+				"$base",
+				"$font-size-base"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"$size",
+				"$size-4\t(_variables.scss)"
+			],
+			[
+				"$font",
+				"$font-size-lg"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/App.js",
+			"settings":
+			{
+				"buffer_size": 524,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: instal",
+		"selected_items":
+		[
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/components/_navbar.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/layout/_header.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/layout/_footer.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/includes/_footer.inc",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/pages/_vendors.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/base/_typography.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/includes/_breadcrumb.inc",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/abstracts/_variables.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/abstracts/_mixins.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/components/_content.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/components/_dropdown.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/includes/_header.inc",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/base/_base.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/components/_breadcrumb.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/main.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/main.css",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/components/_forms.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/components/_dropdown.css.map",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/vendors/bootstrap/_navbar.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/layout/_hero.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/abstracts/_fonts.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/components/_buttons.scss",
+		"/C/Users/kzauke/Dropbox/ISAA Leadership Workshop/Max Viewer Engagement/AUTORUN.INF",
+		"/A/Clients/BLKCO/_In/Dropbox-20170815/BlackCo.2017IndustrialLineCard.pdf",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/layout/_aside.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/pages/_staff.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/vendors/bootstrap/_variables.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/Main.ascx",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/layout/_main.scss",
+		"/C/Users/kzauke/Desktop/BLKCO-logo.svg",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/base/_reset.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/vendors/bootstrap/mixins/_background-variant.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/vendors/bootstrap/utilities/_background.scss",
+		"/C/Users/kzauke/ASL-Websites/BLKCO/web/Portals/_default/Skins/BLKCO01/assets/sass/vendors/bootstrap/bootstrap.css",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/assets/sass/pages/_home.scss",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/assets/sass/components/_buttons.scss",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/assets/sass/base/_grid.scss",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/assets/sass/vendors/bootstrap/bootstrap.css",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/assets/sass/abstracts/_mixins.scss",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/assets/sass/layout/_header.scss",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/assets/sass/abstracts/_variables.scss",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/assets/sass/components/_carousel.scss",
+		"/C/Users/kzauke/Desktop/tbl_CartDetails.sql",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/assets/sass/layout/_footer.scss",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/Home.ascx",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/assets/sass/layout/_main.scss",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/assets/sass/base/_typography.scss",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/assets/sass/base/_base.scss",
+		"/A/Clients/PNCL/2017-WebRedesign/web/Portals/0/Skins/PNCL01/assets/sass/main.scss",
+		"/C/Users/kzauke/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/App.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "animal-quiz.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 344.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

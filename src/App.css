@@ -1,0 +1,61 @@
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  padding: 5rem 0 1rem;
+  color: white;
+  text-align: center;
+}
+
+img {
+	max-width: 100%;
+}
+
+.list-group-item:hover {
+	cursor:pointer;
+	background: #eee;
+  transition: background .5s;
+}
+
+#answer-block {
+  position:relative;
+}
+
+#question .selected, .selected:hover {
+  background-color: #d03737;
+  color: white;
+}
+
+#question .selected.correct, .selected.correct:hover {
+  background-color: #265826;
+  color: white;
+}
+#answer-block #overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255,255,255,.8);
+}
+
+#answer-block #overlay h2 {
+  font-size: 50px;
+  text-transform: uppercase;
+  font-weight:bold;
+}
+
+button:hover {
+  cursor:pointer;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
