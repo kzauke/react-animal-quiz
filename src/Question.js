@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import {Image} from './Image';
 import {Answers} from './Answers';
 import {Button} from './Button';
-import {Overlay} from './Overlay';
+
 
 export class Question extends Component {
   
@@ -18,9 +18,7 @@ export class Question extends Component {
     var selectedAnswer = e.target.innerHTML;
     var returnResult = (selectedAnswer === correctAnswer);
 
-    if (returnResult) {
-      this.setState({ correctAnswerSelected: true }) 
-    }
+    this.setState({ correctAnswerSelected: returnResult }) 
 
     return returnResult;
   }
@@ -40,6 +38,7 @@ export class Question extends Component {
       correctAnswer: "Tiger"
     }
     
+
     return (
     	<div id="question" className="row">
       	<div className="col-4">
